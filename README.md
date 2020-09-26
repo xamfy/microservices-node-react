@@ -1,5 +1,7 @@
 # Microservices with Node JS and React Study Guide
 
+https://trello.com/b/J3Uuq6cw/full-stack-software-engineer-learning-roadmap
+
 ## [**Section 01: Fundamental Ideas Around Microservices**](https://github.com/chesterheng/microservices-node-react/blob/master/section-01.md)
 
 ## [**Section 02: A Mini-Microservices App**](https://github.com/chesterheng/microservices-node-react/blob/master/section-02.md)
